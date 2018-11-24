@@ -1,0 +1,3 @@
+def array
+  array = []
+end
