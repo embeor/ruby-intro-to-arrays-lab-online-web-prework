@@ -1,3 +1,3 @@
 def array
-  arrays = []
+  []
 end
