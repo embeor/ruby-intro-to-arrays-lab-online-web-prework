@@ -4,6 +4,6 @@ end
 
 def array_with_two_elements
   array_with_two_elements = []
-  array_with_two_elements << [element1, element2]
+  array_with_two_elements << "item1"
 
 end
